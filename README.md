@@ -1,2 +1,2 @@
-# turbo96M.github.io
+# turbo96M
 Turbo NA Mazda Miata project dump
